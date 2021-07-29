@@ -3,8 +3,8 @@
 
 This repository contains example iplementation of PCA and K-means cluster of currypto currencies   
 
-Following data analytics are are touched: 
-* Data cleasing and data preparation
+Following data analytics areas are are touched: 
+* Data cleansing and data preparation
 * Principle Component Analysis 
 * K-means cluster
 
